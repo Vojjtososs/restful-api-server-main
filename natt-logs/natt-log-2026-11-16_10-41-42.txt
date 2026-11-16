@@ -1,0 +1,8 @@
+[10:41:42][PluginLoader][WARNING] Plugins directory not found.
+[10:41:42][ProcessManager][WARNING] Failed to read PIDs: pid-list.txt (Systém nemùže nalézt uvedený soubor)
+[10:41:42][NATTCore][INFO] NATT CORE initialization done
+Version: 1.7.0 
+Configuration path: https://gitlab.com/ap5vs/test-config/restful-api-server-config/-/raw/main/test-config-6.yaml?ref_type=heads
+Configuration loading mode: FROM URL
+[10:41:42][NATTCore][INFO] Working directory path: C:\Users\vojta\Desktop\restful-api-server-main
+[10:41:42][NATTCore][INFO] Start loading of the configuration file ...
